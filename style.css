@@ -10,3 +10,7 @@ div {
 #vesalco1 {
         color:rgb(0, 0, 95) ;
 }
+
+.negrito {
+        font-weight: bold;
+}
